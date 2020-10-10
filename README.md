@@ -4,7 +4,7 @@ Exercicios encontrados no Google Docs do Professor.
 Programação Baseada em Objectos
 
 
-Retângulo
+1.Retângulo
 
 Crie uma classe Retangulo com os atributos largura e comprimento (inteiros, com o valor 1 por omissão, com o valor máximo de 20). Crie dois construtores, um vazio e um que aceite como parâmetros os dois valores. Crie métodos que retornem o perímetro e a área. Crie um método Quadrado() que retorne um valor booleano indicando se se trata de um quadrado. Crie um método toString() indicando as dimensões do retângulo numa string. 
 
@@ -15,7 +15,7 @@ Teste a classe e todos os métodos.
 
 
 
-Paralelepipedo
+2.Paralelepipedo
 
 Crie uma classe Paralelepípedo que permita descrever este objecto através das suas 3 dimensões (altura,largura,comprimento - valores inteiros). Deverá conter os seguintes construtores:
 
@@ -34,7 +34,7 @@ Crie um programa para testar a classe, todos os métodos e construtores a partir
 
 
 
-Aluno ISMAI
+3.Aluno ISMAI
 
 Crie uma classe para descrever um aluno do ISMAI com nome, número, ano, curso. Crie apenas um único construtor onde todas as variáveis são passadas como argumentos. Crie:
 
@@ -48,7 +48,7 @@ Testar Classe.
 
 
 
-Disciplina
+4.Disciplina
 
 
 Crie ao seu critério uma classe Disciplina para descrever uma disciplina do ISMAI: 
@@ -65,7 +65,7 @@ Testar com um programa.
 
 
 
-Racional
+5.Racional
 
 Crie uma classe Racional para descrever fracções através do numerador e denominador. 
 
@@ -77,7 +77,7 @@ Crie um método para apresentar a fracção como um número em vírgula flutuant
 Teste a classe em que o denominador e o numerador são introduzidos pelo utilizador
 
  
-Notebook
+6.Notebook
 
 A classe Notebook deverá ter variáveis para a marca (string. Exemplo: “HP”), processador (string, exemplo “Ryzen”). Deverá utilizar variáveis para descrever o cpu, memórias, gráfica e disco.
 
@@ -90,7 +90,7 @@ Crie métodos ComparaMemoria(), ComparaProcessador() que recebam um objecto Comp
 Teste os métodos ComparaComputador e ToString com um programa. Introduza os valores pelo utilizador (deverá perguntar o tipo de monitor) e instancie 3 objectos da classe Computador, incluindo um objecto com valores incorrectos. 
 
  
-Matriz
+7.Matriz
  
 Crie uma classe Matriz para descrever uma matriz 10X10 de valores inteiros num determinado intervalo.
 
@@ -112,7 +112,7 @@ Método ToString() que retorne uma string indicando o os limites superior e infe
 Teste a classe. 
  
 
-Cliente
+8.Cliente
 
 
 Crie uma classe Cliente para descrever clientes da  Vodafone  e que conterá variáveis para guardar o nome próprio, apelido, número de contribuinte, telefone e crédito (inteiro, em cêntimos de €).  Escolha o tipo de variáveis a utilizar com algum cuidado. 
